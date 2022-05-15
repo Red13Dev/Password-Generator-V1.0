@@ -2,6 +2,7 @@
 
 Created using python with Tkinter.
 
+
 How To Use:
 
   The first entry is where the outputted password will be.
